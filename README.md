@@ -34,14 +34,14 @@ Further details are also available at [http://pages.cs.wisc.edu/~fotuhi-s/ripple
 
 * data/	Regions and features
 	* Main results based on 5C data from Sanyal et al:
-	* 5cfeatures/	- labeled training examples (feature vectors)
-	* 5cregions/	- positive/negative training regions
-	* rnaseq/	- cell-line specific expression values (from RNA-seq) for genes matched to promoters
-
+	   * 5cfeatures/	- labeled training examples (feature vectors)
+ 	   * 5cregions/	- positive/negative training regions
+ 	   * rnaseq/	- cell-line specific expression values (from RNA-seq) for genes matched to promoters
+ 
 	* Supplementary regions based on Rao, Huntley HiC data:
-	* hicfeatures/ - labeled examples with feature matrices (input to RIPPLE)
-	* hicregions/ - positive/negative examples
-	* hicrnaseq/ - expression values from HiC positive/negative regions
+		* hicfeatures/ - labeled examples with feature matrices (input to RIPPLE)
+	   * hicregions/ - positive/negative examples
+	   * hicrnaseq/ - expression values from HiC positive/negative regions
 	
 * predictions/ Predicted enhancer-promoter interactions 
 
