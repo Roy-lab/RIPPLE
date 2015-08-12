@@ -12,6 +12,9 @@ Further details are also available at [http://pages.cs.wisc.edu/~fotuhi-s/ripple
 * Version 1.0
 * July 2015
 
+### Contact ###
+* sroy@biostat.wisc.edu
+
 ### Contents ###
 
 * code/	
@@ -45,11 +48,3 @@ Further details are also available at [http://pages.cs.wisc.edu/~fotuhi-s/ripple
 
 * trainedclassifiers/ Trained Random Forests from RIPPLE features (main results)
 	* Trained Random forests that can be used to predict interactions for new pairs of regions in the format in data/5cfeatures/*enhanceronly.txt feature format
-
-
-### Contact ###
-
-* sroy@biostat.wisc.edu
-
-
-
