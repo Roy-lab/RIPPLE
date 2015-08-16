@@ -4,10 +4,10 @@
 
 This repository contains supplementary code to reproduce results from the following manuscript:
 
-PREDICTIVE FRAMEWORK FOR CELL-LINE SPECIFIC ENHANCER-PROMOTER INTERACTIONS DEFINES SIGNATURES OF LONG AND SHORT RANGE REGULATION
+A predictive modeling approach for cell-line specific long-range regulatory interactions
 Sushmita Roy, Alireza Fotuhi Siahpirani, Deborah Chasman, Sara Knaack, Ferhat Ay, Ron Stewart, Michael Wilson, Rupa Sridharan
 
-Further details are also available at [http://pages.cs.wisc.edu/~fotuhi-s/ripple/](http://pages.cs.wisc.edu/~fotuhi-s/ripple/)
+Further details are also available at [http://pages.discovery.wisc.edu/~sroy/ripple/](http://pages.discovery.wisc.edu/~sroy/ripple)
  
 * Version 1.0
 * July 2015
