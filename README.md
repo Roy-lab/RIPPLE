@@ -7,6 +7,12 @@ This repository contains supplementary code to reproduce results from the follow
 A predictive modeling approach for cell-line specific long-range regulatory interactions
 Sushmita Roy, Alireza Fotuhi Siahpirani, Deborah Chasman, Sara Knaack, Ferhat Ay, Ron Stewart, Michael Wilson, Rupa Sridharan
 
+**New! Nov 18, 2016: We have reimplemented and redone our experiments using C++. Please visit this page
+https://bitbucket.org/roygroup/ripple_cpp
+for the C++ version
+**
+
+
 Further details are also available at [http://pages.discovery.wisc.edu/~sroy/ripple/](http://pages.discovery.wisc.edu/~sroy/ripple)
  
 * Version 1.0
